@@ -49,7 +49,7 @@ img {
   .overviewContainer {
     background-color: #082B92;
     height: 800px;
-    margin: 125px;
+    margin: 300px;
 }
 p3 {
     font-family: 'Poppins', sans-serif;
@@ -80,4 +80,8 @@ h5 {
 .containerIdeation {
     background-color: #082B92;
     height: 800px;
+}
+
+.Ideation1 {
+    background-color: grey;
 }
