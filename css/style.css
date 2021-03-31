@@ -82,6 +82,41 @@ h5 {
     height: 800px;
 }
 
-.Ideation1 {
-    background-color: grey;
+.navigation1 {
+    font-family: Poppins, sans-serif;
+    font-weight: bolder;
+    color: grey;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+
+nav ul li {
+    color: black;
+    font-weight: bolder;
+}
+
+li {
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+footer {
+    background-color:  #373738;
+}
+
+.footerUl li {
+    display: inline-block;
+    color: white;
+    width: 200px;
+    padding: 10px;
+}
+
+.footerUl {
+    vertical-align: top;
+    display: inline-block;
 }
